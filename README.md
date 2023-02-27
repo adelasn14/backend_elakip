@@ -6,7 +6,9 @@ API yang dihasilkan :
 
 /login
 
-/visi/read
+/visi
+
+     /read
 
      /read_single
      
@@ -17,7 +19,9 @@ API yang dihasilkan :
      /delete
      
      
-/misi/read
+/misi
+
+     /read
 
      /read_single
      
@@ -28,7 +32,9 @@ API yang dihasilkan :
      /delete
      
      
-/tujuan/read
+/tujuan
+       
+       /read
 
        /read_single
        
@@ -39,7 +45,9 @@ API yang dihasilkan :
        /delete
        
        
-/indikator_target/read
+/indikator_target
+
+                 /read
                  
                  /read_single
                  
@@ -50,7 +58,9 @@ API yang dihasilkan :
                  /delete
                  
                  
-/kegiatan/read
+/kegiatan
+
+         /read
 
          /read_single
          
