@@ -8,28 +8,28 @@ API yang dihasilkan :
 
 2. /visi
 
-     /read
+          /read
 
-     /read_single
+          /read_single
      
-     /create
+          /create
      
-     /update
+          /update
      
-     /delete
+          /delete
      
      
 3. /misi
 
-     /read
+          /read
 
-     /read_single
+          /read_single
      
-     /create
+          /create
      
-     /update
+          /update
      
-     /delete
+          /delete
      
      
 4. /tujuan
