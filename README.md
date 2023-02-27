@@ -4,22 +4,9 @@ Sistem backend berhasil dibangun dan dideploy menggunakan hosting server Google 
 
 API yang dihasilkan :
 
-/login
+1. /login
 
-/visi
-
-     /read
-
-     /read_single
-     
-     /create
-     
-     /update
-     
-     /delete
-     
-     
-/misi
+2. /visi
 
      /read
 
@@ -32,7 +19,20 @@ API yang dihasilkan :
      /delete
      
      
-/tujuan
+3. /misi
+
+     /read
+
+     /read_single
+     
+     /create
+     
+     /update
+     
+     /delete
+     
+     
+4. /tujuan
        
        /read
 
@@ -45,7 +45,7 @@ API yang dihasilkan :
        /delete
        
        
-/indikator_target
+5. /indikator_target
 
                  /read
                  
@@ -58,7 +58,7 @@ API yang dihasilkan :
                  /delete
                  
                  
-/kegiatan
+6. /kegiatan
 
          /read
 
